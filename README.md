@@ -29,7 +29,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,7 +121,7 @@ Publish the website in the LocalHost.
     
 </body>
 </html>
-'''
+```
 # OUTPUT:
 # RESULT:
 <img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/35ef2dd9-69ea-47a0-8b8c-0732c1b30e85" />
